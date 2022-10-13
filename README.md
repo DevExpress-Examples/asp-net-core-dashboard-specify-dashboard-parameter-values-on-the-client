@@ -1,25 +1,24 @@
-# Product/Platform - Task
+# Dashboard for ASP.NET Core - How to specify dashboard parameter values on the client
 
-This is the repository template for creating new examples. Describe the solved task here.
+This example shows how to change dashboard parameter values in the ASPxDashboard control on the [client](https://docs.devexpress.com/Dashboard/400192/web-dashboard/aspnet-core-dashboard-control/client-side-api-overview?p=netframework). 
 
-Put a screenshot that illustrates the result here.
+This example uses the following methods:
 
-Then, add implementation details (steps, code snippets, and other technical information in a free form), or add a link to an existing document with implementation details. 
+- [DashboardParameterDialogExtension.getParameters](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DashboardParameterDialogExtension?p=netframework#js_devexpress_dashboard_dashboardparameterdialogextension_getparameters) - obtains the dashboard parameter settings and metadata.
+- [DashboardParameter.setValue](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DashboardParameter#js_devexpress_dashboard_dashboardparameter_setvalue_value_) - specifies the dashboard parameter value on the client. 
+- [DashboardParameter.getDefaultValue](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DashboardParameter#js_devexpress_dashboard_dashboardparameter_getdefaultvalue) - returns a default parameter value. 
+- [DashboardParameterDialogExtension.show](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DashboardParameterDialogExtension#js_devexpress_dashboard_dashboardparameterdialogextension_show) - invokes the Dashboard Parameters dialog that displays applied parameter values.
 
 ## Files to Review
 
-- link.cs (VB: link.vb)
-- link.js
-- ...
+* [ParameterValues.js](./CS/AspNetCoreDashboard_SetParameterValues/wwwroot/js/ParameterValues.js)
+* [Index.cshtml](./CS/AspNetCoreDashboard_SetParameterValues/Pages/Default.aspx)
 
 ## Documentation
 
-- link
-- link
-- ...
+- [Dashboard Parameters on the Web](https://docs.devexpress.com/Dashboard/117062/web-dashboard/create-dashboards-on-the-web/data-analysis/dashboard-parameters)
+
 
 ## More Examples
 
-- link
-- link
-- ...
+- [Dashboard for Web Forms - How to specify dashboard parameter values on the client](https://github.com/DevExpress-Examples/web-forms-dashboard-specify-dashboard-parameter-values-on-the-client)
