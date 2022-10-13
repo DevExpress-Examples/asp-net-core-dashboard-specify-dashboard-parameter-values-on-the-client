@@ -1,0 +1,15 @@
+﻿@page
+
+<div style="position: absolute; left: 0; top: 0; right: 0; bottom: 0;">
+    <div id="setParameterValuesButton" style="float: left; margin: 2px 5px;"></div>
+    <div id="resetParameterValuesButton" style="float: left; margin: 2px 5px;"></div>
+    <div id="showParametersDialog" style="float: left; margin: 2px 5px;"></div>
+
+    @(Html.DevExpress().Dashboard("dashboardControl1")
+        .ControllerName("DefaultDashboard")
+        .Width("100%")
+        .Height("100%")
+        .OnBeforeRender("onBeforeRender")
+        .WorkingMode(DevExpress.DashboardWeb.WorkingMode.Viewer)
+        )
+</div>
