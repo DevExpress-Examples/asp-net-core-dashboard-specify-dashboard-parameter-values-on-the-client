@@ -16,8 +16,8 @@ This example uses the following methods:
 
 ## Files to Review
 
-* [ParameterValues.js](./CS/AspNetCoreDashboard_SetParameterValues/wwwroot/js/ParameterValues.js)
-* [Index.cshtml](./CS/AspNetCoreDashboard_SetParameterValues/Pages/Index.cshtml)
+* [ParameterValues.js](./CS/AspNetCoreDashboard/wwwroot/js/ParameterValues.js)
+* [Index.cshtml](./CS/AspNetCoreDashboard/Pages/Index.cshtml)
 
 ## Documentation
 
