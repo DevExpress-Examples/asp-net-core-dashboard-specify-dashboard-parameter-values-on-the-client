@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Dashboard for ASP.NET Core - How to specify dashboard parameter values on the client
 
-This example shows how to change dashboard parameter values in the ASPxDashboard control on the [client](https://docs.devexpress.com/Dashboard/400192/web-dashboard/aspnet-core-dashboard-control/client-side-api-overview?p=netframework). 
+This example shows how to change dashboard parameter values in the Web Dashboard control on the [client](https://docs.devexpress.com/Dashboard/400192/web-dashboard/aspnet-core-dashboard-control/client-side-api-overview?p=netframework). 
 
 This example uses the following methods:
 
