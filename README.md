@@ -7,6 +7,8 @@
 
 This example shows how to change dashboard parameter values in the Web Dashboard control on the [client](https://docs.devexpress.com/Dashboard/400192/web-dashboard/aspnet-core-dashboard-control/client-side-api-overview?p=netframework). 
 
+![Web Dashboard](web-dashboard.png)
+
 This example uses the following methods:
 
 - [DashboardParameterDialogExtension.getParameters](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DashboardParameterDialogExtension?p=netframework#js_devexpress_dashboard_dashboardparameterdialogextension_getparameters) - obtains the dashboard parameter settings and metadata.
