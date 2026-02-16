@@ -31,7 +31,7 @@ This example uses the following methods:
 
 - [Dashboard for Web Forms - How to specify dashboard parameter values on the client](https://github.com/DevExpress-Examples/web-forms-dashboard-specify-dashboard-parameter-values-on-the-client)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-core-dashboard-specify-dashboard-parameter-values-on-the-client&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-core-dashboard-specify-dashboard-parameter-values-on-the-client&~~~was_helpful=no)
 
